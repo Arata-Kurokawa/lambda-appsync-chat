@@ -1,0 +1,7 @@
+aws-exports.js
+*.zip
+
+.DS_Store
+.idea/
+
+node_modules
