@@ -44,7 +44,7 @@ exports.handler = async (event) => {
       chatRoomId: chatRoomId,
       message: message
     }
-  });
+  })
 
   return {
     id: id,
